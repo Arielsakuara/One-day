@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Shell","classId":1,"equips":[1,1,0,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":30,"maxLevel":30,"name":"Shell","nickname":"","note":"","profile":"某大学的年轻教师，似乎有什么不为人知的秘密……？"},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"埃里克","classId":2,"equips":[2,1,0,3,0],"faceIndex":7,"faceName":"","traits":[],"initialLevel":21,"maxLevel":21,"name":"Eric","nickname":"","note":"","profile":"某大学的学生，某导师的得意门生。"},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"Shell-白衣服","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Shell","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"Eric-白衣服","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Eirc","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":4,"characterName":"cars2","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"car","nickname":"","note":"","profile":""}
+]
